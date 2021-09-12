@@ -1,0 +1,7 @@
+C:\Users\manud\Documents\GitHub\CSV-converter\CSV-converter\CSV-converter\bin\Debug\CSV-converter.exe.config
+C:\Users\manud\Documents\GitHub\CSV-converter\CSV-converter\CSV-converter\bin\Debug\CSV-converter.exe
+C:\Users\manud\Documents\GitHub\CSV-converter\CSV-converter\CSV-converter\bin\Debug\CSV-converter.pdb
+C:\Users\manud\Documents\GitHub\CSV-converter\CSV-converter\CSV-converter\obj\Debug\CSV-converter.csproj.AssemblyReference.cache
+C:\Users\manud\Documents\GitHub\CSV-converter\CSV-converter\CSV-converter\obj\Debug\CSV-converter.csproj.CoreCompileInputs.cache
+C:\Users\manud\Documents\GitHub\CSV-converter\CSV-converter\CSV-converter\obj\Debug\CSV-converter.exe
+C:\Users\manud\Documents\GitHub\CSV-converter\CSV-converter\CSV-converter\obj\Debug\CSV-converter.pdb
